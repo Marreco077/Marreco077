@@ -45,7 +45,4 @@ DSA with Python.</h3>
   </a>
 </p>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marreco077&show_icons=true&theme=dark&locale=en" alt="marreco077" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marreco077&" alt="marreco077" /></p>
