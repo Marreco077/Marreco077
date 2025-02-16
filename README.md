@@ -1,8 +1,9 @@
-<h1 align="center">Hey, I'm Marcelo</h1>
+<h1 align="center">Hey, I'm Marcelo ⚡</h1>
 
 <h3 align="center">
   Computer Science student passionate about programming and developing solutions. Always eager to learn and create innovative projects. 
-  I have experience working on projects using Java and Python. DSA with Python.
+  I have experience working on projects using Java and Python. 
+  DSA with Python.
 </h3>
 
 <h3 align="left">Connect with me:</h3>
